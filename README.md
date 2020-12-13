@@ -1,2 +1,3 @@
 # h-taoe-2
-recreation of bootable enviro
+recreation of environment/file hierarchy seen in book
+to be updated in sequential order with notes in seperate folder
